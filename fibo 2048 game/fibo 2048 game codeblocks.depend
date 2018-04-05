@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1516773816 source:c:\5k7\fibo 2048 game codeblocks\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<Windows.h>
+
